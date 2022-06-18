@@ -1,4 +1,5 @@
 {
+  "name": "ToolJet",
   "engines": {
     "node": "14.17.3",
     "npm": "7.20.0"
